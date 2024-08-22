@@ -1,0 +1,83 @@
+# Innovative Clinic Website Custom License Agreement
+
+**Effective Date: 23 OCTOBER 2023**
+
+This Innovative Clinic Website Custom License Agreement (the "Agreement") is entered into between Innovative Clinic ("We" or "Our"), having its principal place of business at [Remmogo Crossing, Block 10, Unit S3, 1st Floor], and any individual or entity ("You" or "Your") accessing or using the Innovative Clinic Website ("Website") or any related materials.
+
+By accessing or using the Website, You agree to be bound by the terms and conditions of this Agreement.
+
+1. **Grant of License:**
+
+   a. We grant You a non-exclusive, non-transferable, limited license to access and use the Website solely for Your personal, non-commercial use.
+
+   b. You may not copy, reproduce, modify, distribute, display, or create derivative works based on the Website's content, including but not limited to HTML, CSS, JavaScript files, and visual elements.
+
+2. **Restrictions:**
+
+   a. You may not use the Website for any illegal or unauthorized purpose, including but not limited to engaging in any activity that violates applicable laws, regulations, or third-party rights.
+
+   b. You may not reverse-engineer, decompile, disassemble, or attempt to derive the source code of the Website or any component of it.
+
+3. **Ownership and Intellectual Property:**
+
+   a. The Website and all content, features, and functionality are owned by Innovative Clinic and are protected by copyright, trademark, and other laws.
+
+   b. You may not remove or alter any copyright, trademark, or other proprietary notices contained on or within the Website.
+
+4. **Termination:**
+
+   a. We reserve the right to terminate this license with a notice period of 30 days for any reason.
+
+   b. Termination may occur if You violate the terms of this Agreement.
+
+   c. Upon termination, You must cease all use of the Website and promptly destroy all copies of the Website or any materials obtained from it.
+
+5. **Disclaimer and Limitation of Liability:**
+
+   a. The Website is provided "as is" without warranties of any kind, either express or implied.
+
+   b. We do not warrant that the Website will be error-free, secure, or free from viruses or other harmful components.
+
+   c. In no event shall Innovative Clinic be liable for any damages, whether direct, indirect, incidental, special, or consequential, arising out of the use or inability to use the Website. Our liability is limited to the maximum extent permitted by law.
+
+6. **Changes to this Agreement:**
+
+   a. We may revise this Agreement at any time by updating this page.
+
+   b. We will make reasonable efforts to inform You of changes through email notifications and by posting the updated Agreement on the Website.
+
+   c. You are responsible for reviewing this Agreement regularly to be aware of any changes. Your continued use of the Website after changes are made constitutes acceptance of those changes.
+
+7. **Penalties for Violations:**
+
+   a. In the event of any violation of this Agreement, Innovative Clinic reserves the right to pursue legal remedies and may seek damages, injunctive relief, or any other available legal recourse. Violations may result in civil and criminal penalties.
+
+   b. You shall be responsible for any costs, including reasonable attorney's fees, incurred by Innovative Clinic for enforcement of this Agreement in case of violations.
+
+8. **Security Measures and Restrictions:**
+
+   a. You agree not to engage in any activity that may compromise the security, integrity, or availability of the Website. Prohibited activities include, but are not limited to, hacking, attempting to gain unauthorized access, or introducing malware or any malicious code.
+
+   b. You shall not conduct any activities that may infringe upon the privacy, data protection, or cybersecurity rights of other users or Innovative Clinic.
+
+   c. You may not scrape, spider, or engage in any data collection or extraction activities on the Website without explicit, written permission.
+
+   d. Any breach of security or suspected unauthorized access must be reported to Innovative Clinic immediately. Failure to do so may result in penalties as specified in section 7.
+
+   e. We reserve the right to use any technological means or legal measures to protect the Website's security and integrity. Any attempts to circumvent these protective measures may lead to penalties as specified in section 7.
+
+Please consult with a legal professional to ensure that the penalties and security measures specified in this agreement are appropriate and legally sound for your jurisdiction. This section outlines consequences for violations but should be reviewed and tailored to your specific requirements.
+
+9. **Governing Law and Jurisdiction:**
+
+   a. This Agreement shall be governed by and construed in accordance with the laws of Republic of Botswana.
+
+   b. Any disputes arising out of or related to this Agreement shall be subject to the exclusive jurisdiction of the courts in Republic of Botswana.
+
+10. **Contact Information:**
+
+   For questions about this Agreement, please contact us at aeromedprime@gmail.com /+267 72210290/ +267 71410364.
+
+By accessing or using the Innovative Clinic Website, You acknowledge that You have read, understood, and agreed to be bound by this Agreement.
+
+End of Agreement.
